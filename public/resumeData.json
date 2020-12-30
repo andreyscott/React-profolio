@@ -1,0 +1,175 @@
+{
+  "main": {
+    "name":"Andrew Irorere",
+    "occupation":"Junior web Developer || Front-end Web Developer",
+    "description":"Freelancer by day, code instructor by night on my Youtube channel",
+    "image":"profilepic.jpg",
+    "bio":"My name is Andrew im a junior self-taught  javascript web-Developer currently working freelancing @upwork.",
+    "contactmessage":"You can contact me at any of the following medium.",
+    "email": "andreyscott301@gmail.com",
+    "phone": "+2348164078594",
+    "address":{
+      "street":"18 iyahen street, off Dumez Road",
+      "city":"Benin-city",
+      "state":"Nigeria",
+      "zip": "300251"
+    },
+    "website": "http://www.andreyscott.github.io",
+    "resumedownload":"resume.docx",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://web.facebook.com/andrey.king.188",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AndrewIrorere",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrew-irorere-b63a601b8/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/andrayscott",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/andreyscott",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Please check out my resume.",
+    "education":[
+      {
+        "school":"University of Benin",
+        "degree":"Bachelor in Engineering",
+        "graduated":"Presently"
+
+      }
+    ],
+    "work":[
+      {
+        "company":"Ej-touch Beauty Saloon",
+        "title":"Website Creator",
+        "years":"March 2019",
+        "description":"created a Fully responsive Web-site using Javascript, Jquery,  Google maps Api, etc."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Firebase",
+        "level":"60%"
+      },
+      {
+        "name":"Postgres",
+        "level":"50%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"70%"
+      },
+      {
+        "name":"Expressjs",
+        "level":"65%"
+      },
+      {
+        "name":"JQuery",
+        "level":"60%"
+      },
+      {
+        "name":"PHP",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Netflix-clone",
+        "category":"Build a netflix clone using React.js",
+        "image":"netflix-clone.jpeg",
+        "url":"https://netflix-clone-868e8.web.app/"
+      },
+      {
+        "title":"Amazon-clone",
+        "category":"Amazon clone build with react and hosted with firebase",
+        "image":"project.jpg",
+        "url":"https://clone-92be1.web.app/"
+      },
+      {
+        "title":"Whatsapp-clone",
+        "category":"built with React. firebase Google auth,....",
+        "image":"whatsapp.png",
+        "url":"https://whatsapp-clone-68c8d.web.app"
+      },
+      {
+        "title":"Spotify",
+        "category":"A magic app",
+        "image":"spotify.png",
+        "url":" https://spotify-clone-17c62.web.app"
+      },
+      {
+        "title":"Tik-tok-clone",
+        "category":"Build with love",
+        "image":"tik-tok.png",
+        "url":"https://tic-tok-clone-b5fce.web.app/"
+      },
+      {
+        "title":"EJ-touch",
+        "category":"made for a client",
+        "image":"logo.jpg",
+        "url":"https://beauty-salon-e2958.web.app/"
+      },
+      {
+        "title":"Face-recognition App",
+        "category":"currently working on it!",
+        "image":"brain.jpg",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"There's no victory without Sacrifice ",
+        "user":"King Arthur"
+      },{ 
+      
+        "text":"Andrew Irorere must be one of the most brilliant and hardworking developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"DennisIroxy R-developer"
+      }
+    ]
+  }
+}
